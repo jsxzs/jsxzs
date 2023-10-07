@@ -29,10 +29,10 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
         <li>💬 Ask me about PyTorch, Python, CV.</li>
         <li>📫 How to reach me: <a href = "mailto: jishengxiangzs@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a></li>
 </div>
-
-<div class="test_temp" style="width:40%; height: 250px; float:left;">
+<img align="right" width="55%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<!-- <div class="test_temp" style="width:40%; height: 250px; float:left;">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</div>
+</div> -->
   
 
 <h2> Skills
