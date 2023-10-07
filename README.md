@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitHub Profile :smile:.
 
 <h2>About Me</h2>
-<img align="right" width="55%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width="40%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 -  🔭 I’m currently a senior at HUST.</li>
 - 🌱 I’m currently learning CV, Alogrithms and English.</li>
