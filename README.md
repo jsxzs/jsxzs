@@ -36,11 +36,11 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 
 
 <h2>Connect with me 🤝</h2>
-
+<img scr='https://github.com/jsxzs/jsxzs/assets/89619385/83e5a921-ec5e-467a-b1e3-642ac168c2d0'>
 <a style="margin-left: 10px;" href='https://www.facebook.com/profile.php?id=100091492626742'><img scr='https://github.com/jsxzs/jsxzs/assets/89619385/83e5a921-ec5e-467a-b1e3-642ac168c2d0'></a>
  
 
-<h2>Github Activeness</h2>
+<h2>My Statistics</h2>
 
 <div>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jsxzs&langs_count=8&layout=compact&theme=radical'>
