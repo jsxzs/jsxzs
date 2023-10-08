@@ -1,4 +1,4 @@
-### Hi there 👋, I'm jsxzs!
+## Hi there 👋, I'm jsxzs!
 
 <!--
 **jsxzs/jsxzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +36,7 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 
 
 <h2>Connect with me</h2>
+
 ![github](https://github.com/jsxzs/jsxzs/assets/89619385/067168fc-51d6-407e-8960-f778ad216d73)
 <!-- <a href='https://github.com/jsxzs'><svg width="98" height="96" xmlns="http://www.w3.org/2000/svg">![github](https://github.com/jsxzs/jsxzs/assets/89619385/067168fc-51d6-407e-8960-f778ad216d73)</a> -->
 
