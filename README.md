@@ -53,6 +53,6 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 <br>
 
 <div align="left">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jsxzs&langs_count=8&layout=donut&theme=radical'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jsxzs&langs_count=8&layout=compact&theme=radical'>
   <img style="margin-left: 10px;" src='https://github-readme-stats.vercel.app/api?username=jsxzs&show_icons=true&hide_border=true&theme=radical'>
 </div>
