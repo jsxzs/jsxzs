@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 
 Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitHub Profile :smile:.
 
+<img align="right" width="40%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 <h2>About Me</h2>
 
-<img align="right" width="40%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-
--  🔭 I’m currently a senior at HUST.</li>
-- 🌱 I’m currently learning CV, Alogrithms and English.</li>
+- 🔭 I’m currently a senior at HUST.
+- 🌱 I’m currently learning CV, Alogrithms and English.
 - 👀 Know about me: <a href='https://jsxzs.github.io/'>here</a>
-- 💬 Ask me about PyTorch, Python, CV.</li>
-- 📫 How to reach me: <a href = "mailto: jishengxiangzs@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a></li>
+- 💬 Ask me about PyTorch, Python, CV.
+- 📫 How to reach me: <a href = "mailto: jishengxiangzs@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
@@ -50,7 +50,7 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
   <a style="margin-left: 10px;" href="https://www.instagram.com/jsx.zs/"><i class="ci ci-instagram ci-3x" ></i></a>
 </div>
 
-<br>
+<h2>Github Activeness</h2>
 
 <div align="left">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jsxzs&langs_count=8&layout=compact&theme=radical'>
