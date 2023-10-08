@@ -42,6 +42,8 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 
 <h2>Connect with me 🤝</h2>
 
+<a style="margin-left: 10px;" href='https://www.facebook.com/profile.php?id=100091492626742'><img scr='https://github.com/jsxzs/jsxzs/assets/89619385/83e5a921-ec5e-467a-b1e3-642ac168c2d0'></a>
+ 
 <div align="left" class="icons-social" style="margin-left: 10px;">
 <!--   <a href='https://twitter.com/JShengxian94831'><i class="ci ci-twitter-circle ci-3x"></i></a> -->
   <a style="margin-left: 10px;" href='https://www.facebook.com/profile.php?id=100091492626742'><img scr='https://github.com/jsxzs/jsxzs/assets/89619385/83e5a921-ec5e-467a-b1e3-642ac168c2d0'></a>
@@ -50,9 +52,10 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
   <a style="margin-left: 10px;" href="https://www.instagram.com/jsx.zs/"><i class="ci ci-instagram ci-3x" ></i></a>
 </div>
 
+
 <h2>Github Activeness</h2>
 
-<div align="left">
+<div>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jsxzs&langs_count=8&layout=compact&theme=radical'>
   <img style="margin-left: 10px;" src='https://github-readme-stats.vercel.app/api?username=jsxzs&show_icons=true&hide_border=true&theme=radical'>
 </div>
