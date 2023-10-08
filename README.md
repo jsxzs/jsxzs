@@ -1,8 +1,3 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
-/>
-
 ## Hi there 👋, I'm jsxzs!
 
 <!--
@@ -44,14 +39,6 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 
 <a style="margin-left: 10px;" href='https://www.facebook.com/profile.php?id=100091492626742'><img scr='https://github.com/jsxzs/jsxzs/assets/89619385/83e5a921-ec5e-467a-b1e3-642ac168c2d0'></a>
  
-<div align="left" class="icons-social" style="margin-left: 10px;">
-<!--   <a href='https://twitter.com/JShengxian94831'><i class="ci ci-twitter-circle ci-3x"></i></a> -->
-  <a style="margin-left: 10px;" href='https://www.facebook.com/profile.php?id=100091492626742'><img scr='https://github.com/jsxzs/jsxzs/assets/89619385/83e5a921-ec5e-467a-b1e3-642ac168c2d0'></a>
-  <a style="margin-left: 10px;" href='https://github.com/jsxzs'><i class="ci ci-github ci-3x" ></i></a>
-  <a style="margin-left: 10px;" href= "mailto: jishengxiangzs@gmail.com"><i class="ci ci-gmail ci-3x" ></i></a>
-  <a style="margin-left: 10px;" href="https://www.instagram.com/jsx.zs/"><i class="ci ci-instagram ci-3x" ></i></a>
-</div>
-
 
 <h2>Github Activeness</h2>
 
