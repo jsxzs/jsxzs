@@ -37,7 +37,13 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 
 <h2>Connect with me 🤝</h2>
 
-[<img width="50" src="./imgs/Instagram.svg">](https://www.instagram.com/jsx.zs/)
+<div align="left" class="icons-social" style="margin-left: 10px;">
+  <a href="https://twitter.com/JShengxian94831"><img width="40" src="./imgs/Twitter.svg"></a>
+  <a style="margin-left: 10px;" href="https://www.facebook.com/profile.php?id=100091492626742"><img width="40" src="./imgs/Facebook.svg"></a>
+  <a style="margin-left: 10px;" href="https://github.com/jsxzs"><img width="40" src="./imgs/github.svg"></a>
+  <a style="margin-left: 10px;" href="mailto: jishengxiangzs@gmail.com"><img width="40" src="./imgs/Gmail.svg"></a>
+  <a style="margin-left: 10px;" href="https://www.instagram.com/jsx.zs/"><img width="40" src="./imgs/Instagram.svg"></a>
+</div>
 
 
 <h2>My Statistics</h2>
