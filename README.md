@@ -37,6 +37,19 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 
 <h2>Connect with me 🤝</h2>
 
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
+/>
+
+<div align="left" class="icons-social" style="margin-left: 10px;">
+  <a href='https://twitter.com/JShengxian94831'><i class="ci ci-twitter-circle ci-3x"></i></a>
+  <a style="margin-left: 10px;" href='https://www.facebook.com/profile.php?id=100091492626742'><i class="ci ci-facebook ci-3x" ></i></a>
+  <a style="margin-left: 10px;" href='https://github.com/jsxzs'><i class="ci ci-github ci-3x" ></i></a>
+  <a style="margin-left: 10px;" href= "mailto: jishengxiangzs@gmail.com"><i class="ci ci-gmail ci-3x" ></i></a>
+  <a style="margin-left: 10px;" href="https://www.instagram.com/jsx.zs/"><i class="ci ci-instagram ci-3x" ></i></a>
+</div>
+
 <a href="https://www.instagram.com/jsx.zs/"><img width="50" src="https://github.com/jsxzs/jsxzs/assets/89619385/f6bb8f97-7a78-4506-b91f-debde49c890b"></a>
 
 
