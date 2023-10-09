@@ -36,7 +36,9 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 
 
 <h2>Connect with me 🤝</h2>
-![Instagram](https://github.com/jsxzs/jsxzs/assets/89619385/f6bb8f97-7a78-4506-b91f-debde49c890b)
+
+<img width="50" src="https://github.com/jsxzs/jsxzs/assets/89619385/f6bb8f97-7a78-4506-b91f-debde49c890b">
+
 <img scr='https://github.com/jsxzs/jsxzs/assets/89619385/83e5a921-ec5e-467a-b1e3-642ac168c2d0'>
 <a style="margin-left: 10px;" href='https://www.facebook.com/profile.php?id=100091492626742'><img scr='https://github.com/jsxzs/jsxzs/assets/89619385/83e5a921-ec5e-467a-b1e3-642ac168c2d0'></a>
 
