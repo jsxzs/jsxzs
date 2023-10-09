@@ -37,7 +37,7 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 
 <h2>Connect with me 🤝</h2>
 
-<a href="https://www.instagram.com/jsx.zs/"><img width="50" src="https://github.com/jsxzs/jsxzs/assets/89619385/f6bb8f97-7a78-4506-b91f-debde49c890b"></a>
+[<img width="50" src="https://github.com/jsxzs/jsxzs/assets/89619385/f6bb8f97-7a78-4506-b91f-debde49c890b">](https://www.instagram.com/jsx.zs/)
 
 
 <h2>My Statistics</h2>
