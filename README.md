@@ -24,7 +24,7 @@ Welcome! My name is Shengxiang Ji. Thank You for taking the time to view my GitH
 <h2>About Me</h2>
 
 - 🔭 I’m currently a senior at HUST.
-- 🌱 I’m currently learning CV, Alogrithms and English.
+- 🌱 I’m currently learning 3D Vision.
 - 👀 Know about me: <a href='https://jsxzs.github.io/'>here</a>
 - 💬 Ask me about PyTorch, Python, CV.
 - 📫 How to reach me: <a href = "mailto: jishengxiangzs@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
